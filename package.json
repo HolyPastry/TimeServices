@@ -1,0 +1,20 @@
+{
+    "name": "com.holypastry.bakery.time",
+    "version": "0.1.0",
+    "displayName": "Time Services",
+    "description": "Measure Time in Unity",
+    "unity": "2022.3",
+    "unityRelease": "42f1",
+    "author": {
+        "name": "Sebastien Berton",
+        "email": "sebasti1.berton@gmail.com",
+        "url": "https://github.com/HolyPastry"
+    },
+    "samples": [
+        {
+            "displayName": "TimeServices",
+            "description": "Contains the manager prefab",
+            "path": "Samples~/"
+        }
+    ]
+}

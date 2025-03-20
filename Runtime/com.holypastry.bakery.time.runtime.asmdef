@@ -1,0 +1,17 @@
+{
+    "name": "com.holypastry.bakery.time.runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f2273b449ee9b4220b277637043ebce1",
+        "GUID:96308c8b64ee446d19b379452820aff9"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
