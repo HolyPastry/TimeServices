@@ -10,6 +10,9 @@
         "email": "sebasti1.berton@gmail.com",
         "url": "https://github.com/HolyPastry"
     },
+    "dependencies": {
+        "com.unity.test-framework": "1.1.33"
+    },
     "samples": [
         {
             "displayName": "TimeServices",

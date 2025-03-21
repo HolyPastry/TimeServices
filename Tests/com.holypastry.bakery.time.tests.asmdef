@@ -1,5 +1,5 @@
 {
-    "name": "Tests",
+    "name": "com.holypastry.bakery.time.tests",
     "rootNamespace": "",
     "references": [
         "UnityEngine.TestRunner",
